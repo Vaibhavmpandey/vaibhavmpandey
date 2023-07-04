@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **SQL, Python, Numpy, Pandas**
+- 💬 Ask me about **SQL, Python, Statistics, Data Analysis, Data Visualization**
 
 - 📫 How to reach me **vaibhavmpandey10@gmail.com**
 
